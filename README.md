@@ -1,2 +1,5 @@
 # nftaavegotchi.bot
-nft bot aavegotchi
+вставь все шо треба вставити. 
+в пусті файли також. 
+(каманець, abi) 
+працює як js script через термінал. 
